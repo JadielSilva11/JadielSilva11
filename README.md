@@ -1,6 +1,6 @@
 ## Hello! I am Jadiel Silva 👋
 ### Estudante de Sistemas de Informação na Universidade federal do Ceará
-## Design gráfico
+### Design gráfico
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-silva-7624b1322/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsc_designr)
