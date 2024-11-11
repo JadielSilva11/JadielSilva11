@@ -1,5 +1,5 @@
 ## Hello! I am Jadiel Silva 👋
-- Estudante de Sistemas de Informação na Universidade federal do Ceará
+- Estudante de Sistemas de Informação na Universidade federal do Ceará - UFC
 - Designer gráfico
 
 [![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadiel-silva-7624b1322/)
