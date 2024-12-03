@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsc_designr)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jadielsilva_Design)
 
-![Jadiel GitHub stats](https://github-readme-stats.vercel.app/api?username=JadielSilva11&show_icons=true&theme=radical)
+![Jadiel GitHub stats](https://github-readme-stats.vercel.app/api?username=jadielSilva11&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso diariamente
 
@@ -19,7 +19,7 @@
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
     </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadielSilva11&_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadielSilva11&_progress=true)
 
 ## Contato:
 
