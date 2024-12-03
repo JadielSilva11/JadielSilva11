@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsc_designr)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jadielsilva_Design)
 
-![Jadiel GitHub stats](https://github-readme-stats.vercel.app/api?username=JadielSilva11&show_icons=true&theme=radical)
+![Jadiel GitHub stats](https://github-readme-stats.vercel.app/api?username=jadielSilva11&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso diariamente
 
